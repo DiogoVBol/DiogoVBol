@@ -5,6 +5,10 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Site%20Pessoal-red?style=for-the-badge&logo=hootsuite&logoColor=white" alt="Site Badge"/>
+  <a href="https://www.linkedin.com/in/diogo-vieri-bolzan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://diogovieri.rbind.io/">
+    <img src="https://img.shields.io/badge/Site%20Pessoal-red?style=for-the-badge&logo=hootsuite&logoColor=white" alt="Site Badge"/>
+  </a>
 </div>
