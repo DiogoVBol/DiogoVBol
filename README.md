@@ -40,6 +40,6 @@ But I'm also developing in Power BI and Excel
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiogoVBol&theme=meta-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiogoVBol&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
 
 
