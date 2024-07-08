@@ -27,15 +27,13 @@
 
 I am a statistics student in Universidade Federal do Rio Grande do Sul (UFRGS) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-My main programming languages ​​for data science are R and Python 
+My main programming languages ​​and the ones I'm developing are R and Python
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 
 </div>
-
-But I'm also developing in Power BI and Excel
 
 ---
 
